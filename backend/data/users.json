@@ -1,0 +1,40 @@
+{
+    "users": [
+        {
+            "username": "caos@caos",
+            "password": "opheliaisalive",
+            "portfolio": [
+                {
+                    "symbol": "BTC",
+                    "quantity": 1.5
+                },
+                {
+                    "symbol": "ETH",
+                    "quantity": 10
+                },
+                {
+                    "symbol": "LTC",
+                    "quantity": 50
+                }
+            ]
+        },
+        {
+            "username": "ophelia@caos",
+            "password": "opheliaisalive",
+            "portfolio": [
+                {
+                    "symbol": "BTC",
+                    "quantity": 150
+                },
+                {
+                    "symbol": "ETH",
+                    "quantity": 1000
+                },
+                {
+                    "symbol": "LTC",
+                    "quantity": 5000
+                }
+            ]
+        }
+    ]
+}

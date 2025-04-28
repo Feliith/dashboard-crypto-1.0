@@ -1,0 +1,255 @@
+{
+    "data":[
+            {
+                "news_url": "https://u.today/strategy-and-saylor-follower-announces-new-bitcoin-purchase?utm_source=snapi",
+                "image_url": "https://crypto.snapi.dev/images/v1/s/h/f/57884-686318.jpg",
+                "title": "Strategy and Saylor Follower Announces New Bitcoin Purchase",
+                "text": "Semler Scientific is doubling down on its Bitcoin (BTC) play. The healthcare company CEO, Eric Semler, just announced an acquisition of another 111 BTC for $10 million, bringing total holdings to 3,303 BTC.",
+                "source_name": "UToday",
+                "date": "Fri, 25 Apr 2025 09:33:00 -0400",
+                "topics": [],
+                "sentiment": "Positive",
+                "type": "Article",
+                "tickers": [
+                    "BTC"
+                ]
+            },
+            {
+                "news_url": "https://www.newsbtc.com/news/new-crypto-to-follow-bitcoin-as-21capital-establishes-3-9b-btc-treasury-swiss-central-bank-weighs-btc-national-reserve/",
+                "image_url": "https://crypto.snapi.dev/images/v1/9/k/s/btc9-571799-686314.jpg",
+                "title": "New Crypto to Follow Bitcoin as 21Capital Establishes $3.9B $BTC Treasury, Swiss Central Bank Weighs $BTC National Reserve",
+                "text": "After the news of Cantor Fitzgerald's partnership with SoftBank and Tether, the shares of Cantor Equity Partners (CEP) saw a steep 134% increase. Cantor, the legacy investment firm, is now foraying into Bitcoin by establishing a new venture called Twenty One Capital, which is expected to raise around $3B worth of $BTC from its partners.",
+                "source_name": "NewsBTC",
+                "date": "Fri, 25 Apr 2025 09:30:02 -0400",
+                "topics": [
+                    "regulations",
+                    "pricemovement"
+                ],
+                "sentiment": "Positive",
+                "type": "Article",
+                "tickers": [
+                    "BTC"
+                ]
+            },
+            {
+                "news_url": "https://beincrypto.com/crypto-options-rollover-signals-bullish-bitcoin-100k/",
+                "image_url": "https://crypto.snapi.dev/images/v1/p/x/d/bmtusdt-e7334a-2025-03-11-11-5-686315.png",
+                "title": "Crypto Options Rollover Signals Bullish Tilt Toward $100K Bitcoin Breakout | US Crypto News",
+                "text": "Welcome to the US Morning Crypto News Briefing\u2014your essential rundown of the most important developments in crypto for the day ahead.",
+                "source_name": "BeInCrypto",
+                "date": "Fri, 25 Apr 2025 09:26:21 -0400",
+                "topics": [
+                    "pricemovement"
+                ],
+                "sentiment": "Positive",
+                "type": "Article",
+                "tickers": [
+                    "BTC"
+                ]
+            },
+            {
+                "news_url": "https://bitcoinist.com/ripple-president-plans-ipo-rlusd-rwa/",
+                "image_url": "https://crypto.snapi.dev/images/v1/placeholders/crypto/crypto52.jpg",
+                "title": "Ripple President Unveils Plans Around IPO, RLUSD, And Tokenization",
+                "text": "In a conversation with CNBC's Arjun Kharpal, Ripple President Monica Long sketched out the company's post-litigation agenda, detailing how a prospective US initial public offering (IPO), the US-dollar stablecoin RLUSD, and an aggressive push into real-world-asset tokenization are reshaping Ripple's roadmap.",
+                "source_name": "Bitcoinist",
+                "date": "Fri, 25 Apr 2025 09:30:55 -0400",
+                "topics": [],
+                "sentiment": "Positive",
+                "type": "Article",
+                "tickers": [
+                    "RLUSD",
+                    "XRP"
+                ]
+            },
+            {
+                "news_url": "https://www.cointribune.com/en/here-we-go-again-the-sec-delays-decisions-on-several-crypto-etfs/?utm_source=snapi",
+                "image_url": "https://crypto.snapi.dev/images/v1/g/i/s/report-decision-sec-sur-plusie-686297.png",
+                "title": "Here We Go Again: SEC Stalls On Crypto ETF Approvals",
+                "text": "Are crypto ETFs in danger? The SEC prolongs the wait despite a new pro-crypto president.",
+                "source_name": "Cointribune",
+                "date": "Fri, 25 Apr 2025 09:05:00 -0400",
+                "topics": [
+                    "regulations"
+                ],
+                "sentiment": "Negative",
+                "type": "Article"
+            },
+            {
+                "news_url": "https://www.coinspeaker.com/el-salvaran-delegates-meet-sec-to-discuss-crypto-initiatives/",
+                "image_url": "https://crypto.snapi.dev/images/v1/a/f/n/gen1-571193-686282.jpg",
+                "title": "El Salvadoran Delegates Meet With SEC to Discuss Crypto Pilot Initiatives",
+                "text": "El Salvadoran delegates met with the SEC to discuss launching crypto pilot initiatives, including real estate tokenization and small business fundraising programs.",
+                "source_name": "Coinspeaker",
+                "date": "Fri, 25 Apr 2025 08:55:00 -0400",
+                "topics": [
+                    "regulations"
+                ],
+                "sentiment": "Neutral",
+                "type": "Article"
+            },
+            {
+                "news_url": "https://crypto.news/sec-delays-multiple-crypto-etf-decisions-amid-growing-application-backlog/",
+                "image_url": "https://crypto.snapi.dev/images/v1/b/l/6/jsnh22w-515815-686236.jpg",
+                "title": "SEC delays multiple crypto ETF decisions amid growing application backlog",
+                "text": "The U.S. Securities and Exchange Commission has pushed back decisions on Bitwise's Bitcoin and Ethereum ETFs as well as Canary Capital's Hedera ETF, citing the need for more time as it navigates a surge in ETF filings.",
+                "source_name": "Crypto news",
+                "date": "Fri, 25 Apr 2025 07:48:01 -0400",
+                "topics": [
+                    "regulations"
+                ],
+                "sentiment": "Negative",
+                "type": "Article"
+            },
+            {
+                "news_url": "https://coinpedia.org/price-analysis/top-altcoins-to-consider-before-bitcoin-price-revives-a-rise-back-to-100k/",
+                "image_url": "https://crypto.snapi.dev/images/v1/v/c/i/crypto-price-today-jan-15th-20-686143.webp",
+                "title": "Top Altcoins to Consider Before Bitcoin Price Revives a Rise Back to $100K",
+                "text": "Bitcoin price is closely correlated with many altcoins that closely follow the trend. These altcoins have been following the BTC price rally and experiencing a similar price action to the star token.",
+                "source_name": "CoinPedia",
+                "date": "Fri, 25 Apr 2025 05:02:15 -0400",
+                "topics": [
+                    "tanalysis",
+                    "pricemovement"
+                ],
+                "sentiment": "Positive",
+                "type": "Article",
+                "tickers": [
+                    "BTC",
+                    "DOGE",
+                    "ETH",
+                    "LTC",
+                    "SOL",
+                    "XRP"
+                ]
+            },
+            {
+                "news_url": "https://www.benzinga.com/markets/cryptocurrency/25/04/44991812/bitcoin-ethereum-xrp-dogecoin-see-flat-action-on-dry-thursday?utm_source=snapi",
+                "image_url": "https://crypto.snapi.dev/images/v1/placeholders/crypto/crypto30.jpg",
+                "title": "Bitcoin, Ethereum, XRP, Dogecoin See Flat Action On 'Dry Thursday'",
+                "text": "Global crypto market cap slips 0.8% to $2.91 trillion amid low volatility. Traders expect more sideways action in the next days.",
+                "source_name": "Benzinga",
+                "date": "Thu, 24 Apr 2025 14:36:24 -0400",
+                "topics": [],
+                "sentiment": "Neutral",
+                "type": "Article",
+                "tickers": [
+                    "BTC",
+                    "DOGE",
+                    "ETH",
+                    "XRP"
+                ]
+            },
+            {
+                "news_url": "https://cryptodaily.co.uk/2025/04/crypto-price-analysis-4-24-bitcoin-btc-ethereum-eth-solana-sol-ripple-xrp-dogwifhat-wif-celestia-tia-toncoin-ton",
+                "image_url": "https://crypto.snapi.dev/images/v1/placeholders/crypto/crypto69.jpg",
+                "title": "Crypto Price Analysis 4-24: BITCOIN: BTC, ETHEREUM: ETH, SOLANA: SOL, RIPPLE: XRP, DOGWIFHAT: WIF, CELESTIA: TIA, TONCOIN: TON",
+                "text": "The crypto market rally has taken a breather today as cryptocurrencies registered marginal declines. As a result, the crypto market cap has registered a drop of over 1% to $2.9 trillion.",
+                "source_name": "Crypto Daily",
+                "date": "Thu, 24 Apr 2025 10:36:56 -0400",
+                "topics": [
+                    "tanalysis"
+                ],
+                "sentiment": "Neutral",
+                "type": "Article",
+                "tickers": [
+                    "BTC",
+                    "ETH",
+                    "SOL",
+                    "TIA",
+                    "TON",
+                    "WIF",
+                    "XRP"
+                ]
+            },
+            {
+                "news_url": "https://cointelegraph.com/news/rtfkt-clone-x-avatars-visible-again-after-cloudflare-issue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+                "image_url": "https://crypto.snapi.dev/images/v1/u/h/e/ksnckw-571176-686103.jpg",
+                "title": "RTFKT's CloneX avatars reappear after issue blacks out NFTs",
+                "text": "More than 19,800 CloneX digital avatars developed by non-fungible token firm RTFKT Studios have reappeared after Cloudflare blacked out the NFTs for apparently violating its terms of service.\u201cThis content has been restricted.",
+                "source_name": "Cointelegraph",
+                "date": "Fri, 25 Apr 2025 04:15:12 -0400",
+                "topics": [
+                    "NFT"
+                ],
+                "sentiment": "Neutral",
+                "type": "Article"
+            },
+            {
+                "news_url": "https://www.bitdegree.org/crypto/news/nikes-clone-x-and-animus-nfts-go-dark-after-cloudflare-glitch?utm_source=snapi",
+                "image_url": "https://crypto.snapi.dev/images/v1/y/o/e/gen8-571696-686054.jpg",
+                "title": "Nike's Clone X and Animus NFTs Go Dark After Cloudflare Glitch",
+                "text": "RTFKT, the digital brand Nike shut down in December 2024, ran into trouble on April 24 after images from its Ethereum ETH non-fungible tokens (NFTs) suddenly disappeared.",
+                "source_name": "BitDegree",
+                "date": "Fri, 25 Apr 2025 01:40:56 -0400",
+                "topics": [
+                    "NFT"
+                ],
+                "sentiment": "Negative",
+                "type": "Article"
+            },
+            {
+                "news_url": "https://blockworks.co/news/cloudflare-rtfkt-clonex-nft-art-service-violation",
+                "image_url": "https://crypto.snapi.dev/images/v1/n/i/q/gen11-571740-685783.jpg",
+                "title": "Cloudflare removes RTFKT CloneX NFT art due to Terms of Service violation",
+                "text": "RTFKT, Nike's abandoned digital brand pronounced \u201cartifact,\u201d lost its CloneX art overnight.",
+                "source_name": "Blockworks",
+                "date": "Thu, 24 Apr 2025 13:34:56 -0400",
+                "topics": [
+                    "regulations",
+                    "NFT"
+                ],
+                "sentiment": "Negative",
+                "type": "Article"
+            },
+            {
+                "news_url": "https://coinpedia.org/altcoin/whale-alert-here-are-top-altcoins-whales-are-investing-right-now/",
+                "image_url": "https://crypto.snapi.dev/images/v1/placeholders/crypto/crypto69.jpg",
+                "title": "Whale Alert! Here Are Top Altcoins Whales are Investing Right Now!",
+                "text": "The cryptocurrency market has continued to bounce back this weekend, with the major coins remaining in the green zone. BTC is heading towards resistance at $44K, ETH is hovering around $3.3K. However, Aave is leading the race with 9.1% gains. As the market recovers, a $30.6 million cryptocurrency shopping spree was just completed by one \u2026",
+                "source_name": "CoinPedia",
+                "date": "Sat, 15 Jan 2022 23:31:16 -0500",
+                "topics": [
+                    "whales"
+                ],
+                "sentiment": "Positive",
+                "type": "Article",
+                "tickers": [
+                    "BTC",
+                    "ETH",
+                    "GALA",
+                    "LINK",
+                    "SHIB"
+                ]
+            },
+            {
+                "news_url": "https://thecurrencyanalytics.com/altcoins/cardano-ada-has-a-greater-vision-other-than-pumping-the-price-hopium-with-onchain-activity-37866.php",
+                "image_url": "https://crypto.snapi.dev/images/v1/placeholders/crypto/crypto68.jpg",
+                "title": "Cardano (ADA) Has a Greater Vision Other than Pumping the Price Hopium with OnChain Activity",
+                "text": "Catch up on the latest crypto market news at The Currency Analytics. While Cardano is not ahead in terms of the price, the community believes they are ahead in terms of purpose\u2026 The post Cardano (ADA) Has a Greater Vision Other than Pumping the Price Hopium with OnChain Activity appeared first on Cryptocurrency News.",
+                "source_name": "The Currency Analytics",
+                "date": "Sat, 15 Jan 2022 22:18:02 -0500",
+                "topics": [],
+                "sentiment": "Positive",
+                "type": "Article",
+                "tickers": [
+                    "ADA"
+                ]
+            },
+            {
+                "news_url": "https://news.bitcoin.com/vitalik-buterin-crypto-twitter-currency-prefer-overtake-ethereum-cardano-tron/",
+                "image_url": "https://crypto.snapi.dev/images/v1/placeholders/crypto/crypto66.jpg",
+                "title": "Vitalik Buterin Asks Twitter Followers Which Crypto They Prefer to Overtake Ethereum \u2014 Cardano, Tron Favorites",
+                "text": "Ethereum co-founder Vitalik Buterin set up a pair of polls on Twitter asking his followers if 80% of all transactions and savings in the year 2035 are in one currency and it is not ether, which currency they would prefer it to be. He asked them to choose from a number of cryptocurrencies including bitcoin, [\u2026]",
+                "source_name": "Bitcoin",
+                "date": "Sat, 15 Jan 2022 21:30:23 -0500",
+                "topics": [],
+                "sentiment": "Neutral",
+                "type": "Article",
+                "tickers": [
+                    "ADA",
+                    "TRX"
+                ]
+            }
+    ]
+}
